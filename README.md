@@ -1,6 +1,6 @@
 mongodb
 =======
-Belajar menggunakan `mongodb` dan `mongoose` 
+Belajar menggunakan `mongodb` dan `mongoose`
 
 ---
 
